@@ -47,3 +47,17 @@ And good message is now show up
 Patch the file and run it in debugger, the good message will show instead of bad message.
 
 ![image](https://github.com/user-attachments/assets/9e85546d-8501-4c64-b151-408ee90d034f)
+
+Method 2 is using plugin to bypass, here I use ScyllaHide
+
+First we open it and choose basic option, click ok and ok
+
+![Screenshot 2024-10-11 142001](https://github.com/user-attachments/assets/959980f7-f84e-460c-a486-fec7b3ee1856)
+
+![Screenshot 2024-10-11 142019](https://github.com/user-attachments/assets/2de4b572-b92c-4ecd-913e-19d76417bf1a)
+
+![Screenshot 2024-10-11 142028](https://github.com/user-attachments/assets/6390011e-954d-4ceb-abea-0b1e07155b46)
+
+Now just run as normal the plugin has bypassed the anti-debugger easily.
+
+![Screenshot 2024-10-11 142551](https://github.com/user-attachments/assets/40e4c7dd-61c0-4fa8-94f6-0b5592dfa1b4)
