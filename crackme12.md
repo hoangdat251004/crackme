@@ -44,3 +44,6 @@ And good message is now show up
 
 ![image](https://github.com/user-attachments/assets/bc898cda-f04a-46f2-87ae-ce45b6342127)
 
+Patch the file and run it in debugger, the good message will show instead of bad message.
+
+![image](https://github.com/user-attachments/assets/9e85546d-8501-4c64-b151-408ee90d034f)
