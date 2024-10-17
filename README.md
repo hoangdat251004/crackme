@@ -1,3 +1,3 @@
-# # crackme
+# crackme
 
-# **Resources** : *https://crackinglessons.com/category/challenges/*
+> # [**Resources**](https://crackinglessons.com/category/challenges/)
